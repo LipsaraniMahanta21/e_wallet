@@ -1,4 +1,4 @@
-package com.e_wallet.Transaction;
+package com.e_wallet.gatewaySecurity;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
